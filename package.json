@@ -1,5 +1,6 @@
 {
   "name": "html-builder",
+  "type": "commonjs",
   "version": "1.0.0",
   "description": "html-builder task for RSSchool",
   "scripts": {
@@ -15,4 +16,5 @@
     "@types/node": "^16.11.4",
     "eslint": "^7.32.0"
   }
+  
 }
